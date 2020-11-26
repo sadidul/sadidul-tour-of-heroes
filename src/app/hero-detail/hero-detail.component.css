@@ -28,3 +28,7 @@ button:disabled {
   color: #ccc;
   cursor: auto;
 }
+
+.btn {
+  margin-left: 25px;
+}
